@@ -1,0 +1,33 @@
+/* reset */
+*{
+    margin: 0;
+    border: 0;
+}
+
+#segundoParagrafo{
+    font-size: 50px;
+    color: blue;
+}
+
+/*
+.figura{
+    width: 250px;
+}
+*/
+
+figure > img{
+    width: 200px;
+}
+
+html{
+    font-size: 10px;
+}
+
+#primeiroParagrafo{
+    font-style: italic;
+    font-size: 2rem;
+}
+
+h1, h3{
+    font-family: 'Courier New', Courier, monospace;
+}
